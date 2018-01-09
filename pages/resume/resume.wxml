@@ -1,0 +1,13 @@
+<view>
+    <view class="bg bg-blur"></view>
+    <view class="main-state">
+        <view class="list" animation="{{animationData}}" style="opacity:{{checkOpacity}}">这一年里</view>
+        <view class="list" animation="{{animationData}}" style="opacity:{{checkOpacity}}">TA一工在云村听了
+            <span class="list-red">2372</span>首歌</view>
+        <view class="list" animation="{{animationData}}" style="opacity:{{checkOpacity}}">TA热衷的风格成谜</view>
+        <view class="list" animation="{{animationData}}" style="opacity:{{checkOpacity}}">喜欢在 <span class="list-red">午后</span>听歌</view>
+        <view class="list" animation="{{animationData}}" style="opacity:{{checkOpacity}}">TA<span class="list-red">热爱分享</span></view>
+        <view class="list" animation="{{animationData}}" style="opacity:{{checkOpacity}}">评论里藏着TA的许多记忆</view>
+    </view>
+    <button bindtap='toNext' type="default" class="defaultBtn">往下看</button>
+</view>

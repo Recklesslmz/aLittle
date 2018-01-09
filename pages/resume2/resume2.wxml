@@ -1,0 +1,13 @@
+<view>
+    <view class="bg bg-blur"></view>
+    <view class="main-state" animation="{{animationData}}" style="opacity:{{checkOpacity}}">
+        <view class="list">
+            2017,你在网易云听到最多的歌词是
+        </view>
+        <view class="list title">
+            遇见
+        </view>
+        <view class="list">在武汉,在南京,在南京,在武汉,在苏州,在成都,在重庆 ,在北京</view>
+    </view>
+    <button bindtap='toNext' type="default" class="defaultBtn">往下看</button>
+</view>
