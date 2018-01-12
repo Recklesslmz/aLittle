@@ -2,13 +2,13 @@
     <view class="bg bg-blur"></view>
     <view class="main-state" animation="{{animationData}}" style="opacity:{{checkOpacity}}">
         <view class="list">
-            这一年
+            2018年<span class="list-red">1月13日</span>
         </view>
         <view class="list">
-            这一天里
+            在这一天
         </view>
-        <view class="list">
-            这一天里 这一天里
+        <view class="list list-red">
+            我们结婚<span class="list-red">一周年</span>啦~
         </view>
     </view>
     <button bindtap='toNext' type="default" class="defaultBtn">往下看</button>

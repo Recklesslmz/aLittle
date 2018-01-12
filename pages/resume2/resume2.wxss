@@ -7,7 +7,7 @@
 }
 
 .list {
-    color: #3E3B3B;
+    color: #8CC7B5;
     margin-top: 20px;
     margin-left: 20px;
     font-size: 24px;
@@ -32,7 +32,7 @@
 }
 
 .bg {
-    /* background-image: url('http://oqjgod7s1.bkt.clouddn.com/WechatIMG811.jpeg'); */
+    background-image: url('http://oqjgod7s1.bkt.clouddn.com/WechatIMG817.jpeg');
     text-align: center;
     height: 100%;
     position: absolute;
@@ -50,8 +50,9 @@
     -ms-filter: blur(3px);
     filter: blur(3px);
 }
-.title{
-  text-align: center;
-  font-size: 30px;
-  font-weight: 500;
+
+.title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
 }

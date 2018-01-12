@@ -20,9 +20,26 @@
 			"current": -1,
 			"list": []
 		},
-		"miniprogram": {
+		"game": {
 			"current": -1,
 			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": 0,
+					"name": "resume",
+					"pathName": "pages/resume/resume",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "resume2",
+					"pathName": "pages/resume2/resume2",
+					"query": ""
+				}
+			]
 		}
 	}
 }
